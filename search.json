@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pragmatic Evaluation of Large Language Models in Healthcare",
+    "section": "",
+    "text": "Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in healthcare. However, there is a dearth of analyses evaluating the efficacy of these tools. This tutorial has three learning objectives for participants:\n\ngain a rigorous conceptual understanding of how LLMs are built;\nbecome familiar with the various frameworks available in the literature for LLM evaluation\nobserve three real-world case studies that demonstrate the use of these frameworks (and other open-source tools) to evaluate LLM deployments of increasing complexity.\n\n\n\n\n\n\n\nNoteWebsite under construction\n\n\n\nFull tutorial materials will be available by July 6, 2026"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
