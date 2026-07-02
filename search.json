@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Pragmatic Evaluation of Large Language Models in Healthcare",
     "section": "",
-    "text": "Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in healthcare. However, there is a dearth of analyses evaluating the efficacy of these tools. This tutorial has three learning objectives for participants:\n\ngain a rigorous conceptual understanding of how LLMs are built;\nbecome familiar with the various frameworks available in the literature for LLM evaluation\nobserve three real-world case studies that demonstrate the use of these frameworks (and other open-source tools) to evaluate LLM deployments of increasing complexity.\n\n\n\n\n\n\n\nNoteWebsite under construction\n\n\n\nFull tutorial materials will be available by July 6, 2026"
+    "text": "Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in healthcare. However, there is a dearth of analyses evaluating the efficacy of these tools. This tutorial has three learning objectives for participants:"
+  },
+  {
+    "objectID": "index.html#program",
+    "href": "index.html#program",
+    "title": "Pragmatic Evaluation of Large Language Models in Healthcare",
+    "section": "Program",
+    "text": "Program\n\nIntroduction to LLMs in healthcare (Hojjat)\nArchitecture of an LLM-based application (Abdul)\nReview of language model evaluation frameworks, benchmarks, and metrics (Abdul)\n\nFrameworks vs. Benchmarks vs. Rubrics vs. Metrics\nFrameworks: HELM, Med-HELM, and others\nBenchmarks: MedQA, HealthBench, and others\nRubric: TER, COMET, PDSQI-9, and others\nMetric: relevance, correctness, toxicity, etc.\n\nLLM-as-a-judge. Introduction to the DeepEval Python library (Ashley)\nCase studies (Ashley)\n\nTranslation evaluation\nPatient-facing web chatbot\nHospital knowledgebase search assistant"
   },
   {
     "objectID": "about.html",
