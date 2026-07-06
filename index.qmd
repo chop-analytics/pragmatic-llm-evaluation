@@ -2,11 +2,6 @@
 title: "Pragmatic Evaluation of Large Language Models in Healthcare"
 ---
 
-:::{.callout-note}
-## Website under construction
-Full tutorial materials will be available by July 6, 2026
-:::
-
 ## Overview
 
 Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in healthcare. However, there is a dearth of analyses evaluating the efficacy of these tools. This tutorial has three learning objectives for participants:
