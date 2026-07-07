@@ -13,16 +13,10 @@ Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in heal
 
 ## Program
 
-1. Introduction to LLMs in healthcare (Hojjat)
+1. Introduction to LLMs in healthcare
 2. Architecture of an LLM-based application (Abdul)
-3. Review of language model evaluation frameworks, benchmarks, and metrics (Abdul)
-    - **Frameworks vs. Benchmarks vs. Rubrics vs. Metrics**
-    - **Frameworks**: HELM, Med-HELM, and others
-    - **Benchmarks**: MedQA, HealthBench, and others
-    - **Rubric**: TER, COMET, PDSQI-9, and others
-    - **Metric**: relevance, correctness, toxicity, etc.
-4. LLM-as-a-judge. Introduction to the DeepEval Python library (Ashley)
-5. Case studies (Ashley)
+3. Review of language model evaluation frameworks, benchmarks, and metrics
+5. Case studies
     - Translation evaluation
     - Patient-facing web chatbot
     - Hospital knowledgebase search assistant
