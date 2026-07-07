@@ -14,7 +14,7 @@ Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in heal
 ## Program
 
 1. Introduction to LLMs in healthcare
-2. Architecture of an LLM-based application (Abdul)
+2. Architecture of an LLM-based application
 3. Review of language model evaluation frameworks, benchmarks, and metrics
 5. Case studies
     - Translation evaluation
