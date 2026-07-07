@@ -20,3 +20,7 @@ Large Language Models (LLMs) and LLM-based tools are becoming ubiquitous in heal
     - Translation evaluation
     - Patient-facing web chatbot
     - Hospital knowledgebase search assistant
+
+## Slides
+
+Slides will be made available at the conclusion of the tutorial. 
